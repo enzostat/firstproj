@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstProg",
+            "request": "launch",
+            "mainClass": "FirstProg",
+            "projectName": "firstproj_b1beb3e7"
+        }
+    ]
+}
